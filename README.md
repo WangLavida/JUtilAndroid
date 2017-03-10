@@ -12,3 +12,22 @@ Android工具
  判断是否为空
 ### ToastUtils 
   Toast
+  
+  
+
+###Add it in your root build.gradle at the end of repositories:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+###Step 2. Add the dependency
+
+	dependencies {
+	        compile 'com.github.WangLavida:JUtilAndroid:1.0.4'
+	}
+
+
