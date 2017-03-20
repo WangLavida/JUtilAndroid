@@ -1,4 +1,4 @@
-package com.guoyuan.gycolorful.Util;
+package com.wolf.jutil.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
