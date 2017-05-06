@@ -7,9 +7,9 @@ import java.security.NoSuchAlgorithmException;
   * Created by Wolf on 2017/2/28
   */
  
-public class MD5Utils {
+public class JMD5Utils {
 
-    private static final String TAG = "MD5Utils";
+    private static final String TAG = "JMD5Utils";
 
     /**
      * md5加密

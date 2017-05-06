@@ -7,7 +7,7 @@ import android.util.DisplayMetrics;
   * Created by Wolf on 2017/2/28
   */
  
-public class DeviceUtils {
+public class JDeviceUtils {
 
     /**
      * 获取设备密度

@@ -12,7 +12,7 @@ import java.util.List;
  * manifest工具类
  * Created by tsy on 16/7/25.
  */
-public class ManifestUtils {
+public class JManifestUtils {
 
     /**
      * 判断当前App处于前台还是后台状态

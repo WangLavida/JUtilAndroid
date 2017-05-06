@@ -6,7 +6,7 @@ import android.widget.EditText;
  * 字符串相关方法
  * Created by tsy on 16/8/15.
  */
-public class StringUtils {
+public class JStringUtils {
 
     /**
      * 是否为空

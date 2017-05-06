@@ -8,10 +8,10 @@ import android.view.View;
  * Created by Wolf on 2017/3/15.
  */
 
-public class TabUtils {
+public class JTabUtils {
     public static void dynamicSetTabLayoutMode(TabLayout tabLayout, Context mContext) {
         int tabWidth = calculateTabWidth(tabLayout);
-        int screenWidth = DeviceUtils.getDeviceSize(mContext)[0];
+        int screenWidth = JDeviceUtils.getDeviceSize(mContext)[0];
 
         if (tabWidth <= screenWidth) {
             tabLayout.setTabMode(TabLayout.MODE_FIXED);

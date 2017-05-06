@@ -8,7 +8,7 @@ import android.net.NetworkInfo;
   * Created by Wolf on 2017/2/28
   */
  
-public class NetworkUtils {
+public class JNetworkUtils {
 
     /**
      * 检查网络是否连接

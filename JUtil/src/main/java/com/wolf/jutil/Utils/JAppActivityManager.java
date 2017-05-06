@@ -10,19 +10,19 @@ import java.util.Stack;
  * Created by Wolf on 2017/2/28.
  */
 
-public class AppActivityManager {
+public class JAppActivityManager {
     private static Stack<Activity> activityStack;
-    private static AppActivityManager instance;
+    private static JAppActivityManager instance;
 
-    private AppActivityManager() {
+    private JAppActivityManager() {
     }
 
     /**
      * 单一实例
      */
-    public static AppActivityManager getAppActivityManager() {
+    public static JAppActivityManager getAppActivityManager() {
         if (instance == null) {
-            instance = new AppActivityManager();
+            instance = new JAppActivityManager();
         }
         return instance;
     }
