@@ -25,7 +25,7 @@ Android工具
 ### Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.WangLavida:JUtilAndroid:1.0.4'
+	        compile 'com.github.WangLavida:JUtilAndroid:1.0.6'
 	}
 
 
