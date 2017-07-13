@@ -1,6 +1,6 @@
 # JUtilAndroid
 Android工具  
- [![](https://jitpack.io/v/WangLavida/JUtilAndroid.svg)](https://jitpack.io/#WangLavida/JUtilAndroid)  
+[![](https://jitpack.io/v/WangLavida/JUtilAndroid.svg)](https://jitpack.io/#WangLavida/JUtilAndroid) 
 ### AppActivityManager
    管理Acitviy
 ### DeviceUtils  
