@@ -40,4 +40,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.1.1'
     testCompile 'junit:junit:4.12'
     compile project(':JUtil')
+    compile 'com.github.zhaokaiqiang.klog:library:1.6.0'
 }

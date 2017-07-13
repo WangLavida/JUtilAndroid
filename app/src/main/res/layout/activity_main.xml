@@ -7,5 +7,8 @@
     android:layout_height="match_parent"
     tools:context="com.wolf.jutilandroid.MainActivity">
 
-
+<TextView
+    android:background="#ffffff"
+    android:layout_width="@dimen/x360"
+    android:layout_height="@dimen/x720"/>
 </RelativeLayout>
